@@ -1,0 +1,4 @@
+[submodule "_themes for live"]
+	path = rendering/opstemplate/_themes
+	url = https://github.com/Microsoft/templates.docs.msft
+	branch = master
