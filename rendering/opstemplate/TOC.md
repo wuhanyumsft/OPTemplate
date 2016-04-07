@@ -1,5 +1,5 @@
 # [Index](index.md)
 # [Hello World](helloworld.md)
-## [Index11](helloworld.md)
-## [Index12](helloworld.md)
-# [Index2](helloworld.md)
+## [Empty Doc 1](emptydoc1.md)
+## [Empty Doc 2](emptydoc2.md)
+# [Empty Doc 3](emptydoc3.md)
